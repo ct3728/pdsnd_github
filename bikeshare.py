@@ -47,7 +47,7 @@ def get_filters():
     while True:
         month_name = ('january','february','march','april','may','june','all')
         try:
-            month_input = input('Please select a month ranging from january through june type all for all months: ')
+            month_input = input('Please select a month ranging from january through june type all for all months: ').lower()
             if month_input in month_name:
                 break
             else:
@@ -62,7 +62,7 @@ def get_filters():
     while True:
         day_name= ('all','monday','tuesday','wednesday','thursday','friday','saturday','sunday')
         try:
-            day_input = input('please select the day of week select all for all days: ')
+            day_input = input('please select the day of week select all for all days: ').lower()
             if day_input in day_name:
                 break
             else:
