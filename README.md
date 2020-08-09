@@ -1,15 +1,18 @@
-### Date created
+08_09_2020
 Include the date you created this project and README file.
 
-### Project Title
+Udacity Git Project
 Replace the Project Title
 
-### Description
+The project is about interacting with git and git hub
 Describe what your project is about and what it does
 
-### Files used
+bikeshare.py and README.md
 Include the files used
 
-### Credits
+https://github.com/ct3728/pdsnd_github/upload/master
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+This project was interesting and Fun
+
+The next Udacity course I plan to take is the SQL course
